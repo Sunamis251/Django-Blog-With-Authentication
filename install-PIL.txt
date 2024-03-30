@@ -1,0 +1,2 @@
+
+pip install --no-index -f https://dist.plone.org/thirdparty/ -U PIL
